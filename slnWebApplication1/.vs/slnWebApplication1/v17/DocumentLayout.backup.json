@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\iSpan\\Desktop\\test2\\slnWebApplication1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2F00D481-75FD-4616-8650-D10078C406D6}|WebApplication1\\WebApplication1.csproj|c:\\users\\ispan\\desktop\\test2\\slnwebapplication1\\webapplication1\\models\\aclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F00D481-75FD-4616-8650-D10078C406D6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\aclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2F00D481-75FD-4616-8650-D10078C406D6}|WebApplication1\\WebApplication1.csproj|c:\\users\\ispan\\desktop\\test2\\slnwebapplication1\\webapplication1\\controllers\\acontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F00D481-75FD-4616-8650-D10078C406D6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\acontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -35,12 +39,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AClass.cs",
+              "DocumentMoniker": "C:\\Users\\iSpan\\Desktop\\test2\\slnWebApplication1\\WebApplication1\\Models\\AClass.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\AClass.cs",
+              "ToolTip": "C:\\Users\\iSpan\\Desktop\\test2\\slnWebApplication1\\WebApplication1\\Models\\AClass.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\AClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T05:29:59.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AController.cs",
               "DocumentMoniker": "C:\\Users\\iSpan\\Desktop\\test2\\slnWebApplication1\\WebApplication1\\Controllers\\AController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AController.cs",
               "ToolTip": "C:\\Users\\iSpan\\Desktop\\test2\\slnWebApplication1\\WebApplication1\\Controllers\\AController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\AController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T05:20:56.859Z",
               "EditorCaption": ""
