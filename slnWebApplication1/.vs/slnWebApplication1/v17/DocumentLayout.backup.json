@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\iSpan\\Desktop\\test2\\slnWebApplication1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F00D481-75FD-4616-8650-D10078C406D6}|WebApplication1\\WebApplication1.csproj|c:\\users\\ispan\\desktop\\test2\\slnwebapplication1\\webapplication1\\controllers\\acontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F00D481-75FD-4616-8650-D10078C406D6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\acontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 240,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +31,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AController.cs",
+              "DocumentMoniker": "C:\\Users\\iSpan\\Desktop\\test2\\slnWebApplication1\\WebApplication1\\Controllers\\AController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AController.cs",
+              "ToolTip": "C:\\Users\\iSpan\\Desktop\\test2\\slnWebApplication1\\WebApplication1\\Controllers\\AController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T05:20:56.859Z",
+              "EditorCaption": ""
             }
           ]
         }
